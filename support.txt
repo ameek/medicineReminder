@@ -1,0 +1,10 @@
+#steps for the projects are here for own support
+step 1:
+$ create django-admin startproject
+
+step 2:
+#installing rest djangorestframework for the restful API support
+$conda install -c conda-forge djangorestframework
+
+step3 3:
+add 'rest_framework' in setting.py
