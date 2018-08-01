@@ -13,3 +13,11 @@ setp 4: create an application
 $ python manage.py startapp app_name
 
 step 5: add the app to ta project, setting.py>INSTALLED_APPS
+
+step6: make Model
+
+step7:
+$ python manage.py makemigration
+
+step8:
+$ python manage.py migrate
