@@ -21,3 +21,7 @@ $ python manage.py makemigration
 
 step8:
 $ python manage.py migrate
+
+
+step9:
+make view
